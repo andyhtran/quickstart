@@ -10,4 +10,8 @@ npm install -g create-react-app
 ## Create React App
 ```
 create-react-app app-name
+npm install --save-dev @faker-js/faker
+npm install --save-dev eslint
+npm start
 ```
+
