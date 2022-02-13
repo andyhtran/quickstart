@@ -12,7 +12,7 @@ npm install --save axios
 npm start
 ```
 
-# Create Next App with Tailwind CSS
+## Create Next App with Tailwind CSS
 
 https://tailwindcss.com/docs/guides/nextjs
 
