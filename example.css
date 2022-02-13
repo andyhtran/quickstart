@@ -1,0 +1,20 @@
+.name-left {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.name-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.name-display.subname i {
+  color: blue;
+}
+
+.ex-backgronud {
+  background-color: aliceblue;
+}
