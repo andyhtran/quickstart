@@ -6,6 +6,7 @@ Documentation to reuse when building applications
 
 ```
 create-react-app app-name
+cd app-name
 npm install --save-dev @faker-js/faker
 npm install --save-dev eslint
 npm install --save axios
