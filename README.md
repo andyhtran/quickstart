@@ -10,6 +10,8 @@ cd app-name
 npm install --save-dev @faker-js/faker
 npm install --save-dev eslint
 npm install --save axios
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 npm start
 ```
 
